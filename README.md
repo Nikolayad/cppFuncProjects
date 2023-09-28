@@ -1,3 +1,3 @@
 # cppFuncProjects
 Проекты на функциональном С++
-- CCP TYPES - Таблицы типов на С++
+calc (switch case) калькулятор с switch case
